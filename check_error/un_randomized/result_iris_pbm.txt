@@ -1,0 +1,4 @@
+iris_pbm_clus1_multiview 0.5461635747432848
+iris_pbm_clus2_multiview 0.68548158489118
+iris_pbm_clus3_multiview 0.68548158489118
+iris_pbm_clus4_multiview 0.5461635747432848

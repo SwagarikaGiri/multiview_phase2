@@ -1,0 +1,8 @@
+wine_pbm_1_clus1_multiview 0.5252532160338388
+wine_pbm_1_clus2_multiview 0.6413290429696278
+wine_pbm_1_clus3_multiview 0.4753839948215493
+wine_pbm_1_clus4_multiview 0.5118452339686937
+wine_pbm_1_clus5_multiview 0.48181291442529295
+wine_pbm_1_clus6_multiview 0.4508359141984089
+wine_pbm_1_clus7_multiview 0.389184823902397
+wine_pbm_1_clus8_multiview 0.4784612011452061

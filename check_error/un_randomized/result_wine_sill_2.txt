@@ -1,0 +1,2 @@
+wine_sil_clus1_multiview 0.6413290429696278
+wine_sil_clus2_multiview 0.4944141797842635
